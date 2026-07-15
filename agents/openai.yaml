@@ -1,0 +1,7 @@
+interface:
+  display_name: "Theme Quote Subthemes"
+  short_description: "Find subthemes, then expand approved quotes"
+  default_prompt: "Use $theme-quote-subthemes to find surprising quote-based subthemes, pause for approval, then add exact examples."
+
+policy:
+  allow_implicit_invocation: true
